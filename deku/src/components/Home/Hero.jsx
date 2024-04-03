@@ -14,8 +14,8 @@ const Hero = () => {
       
       </video>
       <div className="relative z-10 flex flex-col justify-center items-center h-screen">
-        <h1 className="text-white text-5xl lg:text-7xl font-bold text-center">
-          DonateNTrade
+        <h1 className="text-white text-5xl lg:text-8xl font-bold text-center">
+          Donate<span className="text-orange-600">Us</span>
         </h1>
         <h3 className="text-white text-lg lg:text-xl font-medium text-center mt-4">
         Transforming Goodwill into Tangible Impact

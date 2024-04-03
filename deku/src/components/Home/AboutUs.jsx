@@ -7,10 +7,8 @@ const AboutUs = () => {
         <div className="md:w-1/2 text-center md:text-left mb-6 md:mb-0">
           <h2 className="text-3xl font-extrabold">About Us</h2>
           <p className="mt-4 text-lg">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem
-            ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua.
+            We are an organization aims to reduce the wastage of stuffs.we have seen that lots of items were dumped in dustbins or thrown away as a waste.<br/> But is it really a waste ??. <br/> we don't think so ,because the things you consider as a waste maybe the reason of smile, a reason of happiness for someone.<br/> That's why we provide you the facility to donate your unnecessary items so that it will be helpful to bring a smile on someone's face.
+
           </p>
         </div>
         <div className="md:w-1/2">
